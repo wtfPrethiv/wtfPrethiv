@@ -7,11 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/wtfprethiv" target="blank"><img src="https://img.shields.io/twitter/follow/wtfprethiv?logo=twitter&style=for-the-badge" alt="wtfprethiv" /></a> </p>
 
-- 🔭 I’m currently working on **Passenger Survival Prediction**
+- 🔭 I’m currently working on **Passenger Survival Prediction System**
 
 - 🌱 I’m currently learning **Qiskit, Rust**
-
-- 💬 Ask me about **Python Javascript**
 
 - 📫 How to reach me **prethivshoba@gmail.com**
 
