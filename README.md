@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/wtfprethiv" target="blank"><img src="https://img.shields.io/twitter/follow/wtfprethiv?logo=twitter&style=for-the-badge" alt="wtfprethiv" /></a> </p>
 
-- 🔭 I’m currently working on **Passenger Survival Prediction System**
+- 🔭 I’m currently working on **Physics Informed Neural Network model to simulate the chaotic dynamics of a double pendulum**
 
 - 🌱 I’m currently learning **Qiskit, Rust**
 
@@ -15,10 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/wtfprethiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wtfprethiv" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/prethiv sriman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prethiv sriman" height="30" width="40" /></a>
-<a href="https://instagram.com/_prethiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_prethiv" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/wtfprethiv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="wtfprethiv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
