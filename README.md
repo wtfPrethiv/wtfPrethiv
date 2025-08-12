@@ -14,9 +14,15 @@
 
 <br>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wtfprethiv&show_icons=true&locale=en&layout=compact&line_height=20" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=wtfprethiv&show_icons=true&locale=en&line_height=20" height="180px"/>
+  <!-- Top Languages card (black bg, white bars, rounded corners) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wtfprethiv&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10" height="180px"/>
+  
+  <!-- Stats card (black bg, white text & bars, rounded corners) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=wtfprethiv&show_icons=true&locale=en&line_height=20&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=10" height="180px"/>
 </p>
+
+
+
 
 
 
