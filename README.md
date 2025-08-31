@@ -19,6 +19,8 @@
   
   <!-- Stats card (black bg, white text & bars, rounded corners) -->
   <img src="https://github-readme-stats.vercel.app/api?username=wtfprethiv&show_icons=true&locale=en&line_height=20&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=10" height="180px"/>
+  </br>
+  <img src="https://github-profile-trophy.vercel.app/?username=wtfprethiv&title=-Reviews&&theme=onestar&no-frame=true" alt="wtfprethiv" />
 </p>
 
 
