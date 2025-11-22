@@ -14,7 +14,7 @@
 
 <br>
 <p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=wtfprethiv&title=-Reviews&&theme=onestar&no-frame=true" alt="wtfprethiv" />
+  <img src="https://stable-github-profile-trophy.vercel.app/?username=wtfprethiv&title=-Reviews&&theme=onestar&no-frame=true" alt="wtfprethiv" />
     </br>
   <img src="https://readme-stats-swart.vercel.app/api/top-langs?username=wtfprethiv&show_icons=true&locale=en&layout=compact&line_height=20&title_color=ffffff&text_color=ffffff&bg_color=000000&hide_border=true&border_radius=10" height="180px"/>
   <img src="https://readme-stats-swart.vercel.app/api?username=wtfprethiv&show_icons=true&locale=en&line_height=20&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&border_radius=10" height="180px"/>
