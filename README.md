@@ -2,7 +2,7 @@
   
 <samp>
 
--> ssh shh.pr3thivv.lol -p 2222 :D
+ssh shh.pr3thivv.lol -p 2222 :D
 
 deeplearning // PIML // research
 
